@@ -1,0 +1,15 @@
+h2 {
+    color: green;
+}
+
+.para {
+    color:brown;
+}
+
+#Heading {
+    color:blueviolet;
+}
+
+h3.h4,h5{
+    color:aqua;
+}

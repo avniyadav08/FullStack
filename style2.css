@@ -1,0 +1,15 @@
+.nav{
+    border:2px solid black;
+    background-color: yellow;
+    
+}
+/* nav:hover{
+    background-color:aqua;
+} */
+
+a:link{
+    color:blue;
+}
+a:visited{
+    color:green;
+}
